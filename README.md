@@ -1,1 +1,1 @@
-# ProgrammingLab
+print("Hello world!")
